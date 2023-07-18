@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/as_ventures/static/css/main.c35974d7.chunk.css",
+    "main.js": "/as_ventures/static/js/main.f12e5a04.chunk.js",
+    "main.js.map": "/as_ventures/static/js/main.f12e5a04.chunk.js.map",
+    "runtime-main.js": "/as_ventures/static/js/runtime-main.285aec19.js",
+    "runtime-main.js.map": "/as_ventures/static/js/runtime-main.285aec19.js.map",
+    "static/js/2.4c465ad2.chunk.js": "/as_ventures/static/js/2.4c465ad2.chunk.js",
+    "static/js/2.4c465ad2.chunk.js.map": "/as_ventures/static/js/2.4c465ad2.chunk.js.map",
+    "index.html": "/as_ventures/index.html",
+    "static/css/main.c35974d7.chunk.css.map": "/as_ventures/static/css/main.c35974d7.chunk.css.map",
+    "static/js/2.4c465ad2.chunk.js.LICENSE.txt": "/as_ventures/static/js/2.4c465ad2.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/as_ventures/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/as_ventures/static/media/Profile.697fdcd2.png",
+    "static/media/a&s_logo.e75f014a.png": "/as_ventures/static/media/a&s_logo.e75f014a.png",
+    "static/media/Home.css": "/as_ventures/static/media/haridwar3.86d7fe09.jpg",
+    "static/media/aboutSection.css": "/as_ventures/static/media/haridwar4.58ed91c3.jfif",
+    "static/media/playstore.82b48319.png": "/as_ventures/static/media/playstore.82b48319.png",
+    "static/media/sample1.f11174c9.jpg": "/as_ventures/static/media/sample1.f11174c9.jpg",
+    "static/media/sample2.fc56df18.jpg": "/as_ventures/static/media/sample2.fc56df18.jpg",
+    "static/media/sample3.ddba3f52.jpg": "/as_ventures/static/media/sample3.ddba3f52.jpg",
+    "static/media/sample4.e5070fb9.jpg": "/as_ventures/static/media/sample4.e5070fb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285aec19.js",
+    "static/js/2.4c465ad2.chunk.js",
+    "static/css/main.c35974d7.chunk.css",
+    "static/js/main.f12e5a04.chunk.js"
+  ]
+}
